@@ -1,9 +1,9 @@
 
 
-HubTaxi: Server Side
+iTaxi: Server Side
 ===
 
-Notes : This is version outdate, so we don't support and maintain project. If you want build a new project please contact to me via email tungnguyen@vsoft.vn or Skype: tungtouch . Thanks !
+Notes : This is version outdate, so we don't support and maintain project. If you want build a new project please contact to me via email vuhoangminhnhat@gmail.com or Skype: vuhoangminhnhat . Thanks !
 
 
 ### Technology use:
@@ -18,7 +18,7 @@ Notes : This is version outdate, so we don't support and maintain project. If yo
   - Phonegap, cordova and ionic framework. (for hybrid app)
 
 ### Setup:
-- Clone this repo to your local machine by: `git clone https://github.com/vsoft-lab/HubTaxi-Server`.
+- Clone this repo to your local machine by: `git clone https://github.com/nhatvhm/TaxiServer`.
 - Okay, after clone it, you can install all dependencies by type: `npm install` on your terminal.
 - I used to mongo database for this repo, because you must install and start mongodb. In your terminal: `sudo /etc/init.d/mongodb start`
 - Use `mongorestore -d mydb dump/mydb` to restore database.
@@ -28,43 +28,43 @@ Notes : This is version outdate, so we don't support and maintain project. If yo
 ===
 ### Reference :
 - Manager:
-  - Source code: `https://github.com/vsoft-lab/HubTaxi-Client/tree/master/manager`
+  - Source code: `https://github.com/nhatvhm/ClientTaxi/tree/master/manager`
   - Demo: `http://103.232.121.63/taxi/webapp/manager/#/main` - User: `admin` | Password: `admin`
   - Some screenshot:
   Login:
-  ![login](https://github.com/vsoft-lab/HubTaxi-Server/blob/master/screenshot/login.png)
+  ![login](https://github.com/nhatvhm/TaxiServer/blob/master/screenshot/login.png)
   Main:
-  ![main](https://github.com/vsoft-lab/HubTaxi-Server/blob/master/screenshot/main.png)
+  ![main](https://github.com/nhatvhm/TaxiServer/blob/master/screenshot/main.png)
   ManageType:
-  ![managetype](https://github.com/vsoft-lab/HubTaxi-Server/blob/master/screenshot/managerCartype.png)
+  ![managetype](https://github.com/nhatvhm/TaxiServer/blob/master/screenshot/managerCartype.png)
   Setting:
-  ![setting](https://github.com/vsoft-lab/HubTaxi-Server/blob/master/screenshot/setting.png)
+  ![setting](https://github.com/nhatvhm/TaxiServer/blob/master/screenshot/setting.png)
 
 - Driver: 
-  - Source code: `https://github.com/vsoft-lab/HubTaxi-Client/tree/master/driver`
+  - Source code: `https://github.com/nhatvhm/ClientTaxi/tree/master/driver`
   - Demo: `http://103.232.121.63/taxi/webapp/driver/#/` user/pass: 30h-9999/123123
   - Screenshot:
 
-  ![driver1](https://github.com/vsoft-lab/HubTaxi-Server/blob/master/screenshot/driver1.png)
-  ![driverLoad](https://github.com/vsoft-lab/HubTaxi-Server/blob/master/screenshot/driverLoad.png)
+  ![driver1](https://github.com/nhatvhm/TaxiServer/blob/master/screenshot/driver1.png)
+  ![driverLoad](https://github.com/nhatvhm/TaxiServer/blob/master/screenshot/driverLoad.png)
   
   ===
   
-  ![driverLogin](https://github.com/vsoft-lab/HubTaxi-Server/blob/master/screenshot/driverLogin.png)
-  ![history](https://github.com/vsoft-lab/HubTaxi-Server/blob/master/screenshot/histories.png)
+  ![driverLogin](https://github.com/nhatvhm/TaxiServer/blob/master/screenshot/driverLogin.png)
+  ![history](https://github.com/nhatvhm/TaxiServer/blob/master/screenshot/histories.png)
   
 - Client: 
-  - Source code: `https://github.com/vsoft-lab/HubTaxi-Client/tree/master/client`
+  - Source code: `https://github.com/nhatvhm/ClientTaxi/tree/master/client`
   - Demo: `http://103.232.121.63/taxi/webapp/client/#/home`
   - Screenshot:
 
-  ![client1](https://github.com/vsoft-lab/HubTaxi-Server/blob/master/screenshot/client1.png)
-  ![client2](https://github.com/vsoft-lab/HubTaxi-Server/blob/master/screenshot/showTaxi.png)
+  ![client1](https://github.com/nhatvhm/TaxiServer/blob/master/screenshot/client1.png)
+  ![client2](https://github.com/nhatvhm/TaxiServer/blob/master/screenshot/showTaxi.png)
   
   ===
   
-  ![client3](https://github.com/vsoft-lab/HubTaxi-Server/blob/master/screenshot/client3.png)
-  ![clientLogin](https://github.com/vsoft-lab/HubTaxi-Server/blob/master/screenshot/clientLogin.png)
+  ![client3](https://github.com/nhatvhm/TaxiServer/blob/master/screenshot/client3.png)
+  ![clientLogin](https://github.com/nhatvhm/TaxiServer/blob/master/screenshot/clientLogin.png)
 
 
-Contact me at tungnguyen@vsoft.vn || Skype: `tungtouch` or `minhtai_it`
+Contact me at vuhoangminhnhat@gmail.com || Skype: vuhoangminhnhat
